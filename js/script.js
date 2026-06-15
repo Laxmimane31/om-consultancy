@@ -138,7 +138,7 @@ const teamData = {
     },
     jay: {
         name: "Jay Trivedi",
-        position: "Partner – Structural Engineering",
+        position: "Partner",
         company: "Stallion Structures",
         icon: "fas fa-drafting-compass",
         badgeClass: "badge-stallion",
@@ -152,7 +152,7 @@ const teamData = {
     },
     yash: {
         name: "Yash Suthar",
-        position: "Founder – Senior Structural Engineer",
+        position: "Founder",
         company: "Stallion Structures",
         icon: "fas fa-globe-americas",
         badgeClass: "badge-stallion",
@@ -167,7 +167,7 @@ const teamData = {
     },
     jinit: {
         name: "Jinit Shah",
-        position: "Partner – Project & Business Development",
+        position: "Partner",
         company: "Om Consultancy",
         icon: "fas fa-chart-line",
         badgeClass: "badge-om",
@@ -181,7 +181,7 @@ const teamData = {
     },
     kantilal: {
         name: "Kantilal Savsani",
-        position: "Partner – Cost & Estimation",
+        position: "Partner",
         company: "Om Consultancy",
         icon: "fas fa-calculator",
         badgeClass: "badge-om",
