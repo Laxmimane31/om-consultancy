@@ -123,7 +123,7 @@ if (backToTopBtn) {
 const teamData = {
     dhaivat: {
         name: "Dhaivat Kirtan Desai",
-        position: "Founder & Proprietor",
+        position: "Founder",
         company: "Om Consultancy",
         icon: "fas fa-user-tie",
         badgeClass: "badge-om",
@@ -138,7 +138,7 @@ const teamData = {
     },
     jay: {
         name: "Jay Trivedi",
-        position: "Partner",
+        position: "Partner – Structural Engineering",
         company: "Stallion Structures",
         icon: "fas fa-drafting-compass",
         badgeClass: "badge-stallion",
@@ -152,7 +152,7 @@ const teamData = {
     },
     yash: {
         name: "Yash Suthar",
-        position: "Partner",
+        position: "Founder – Senior Structural Engineer",
         company: "Stallion Structures",
         icon: "fas fa-globe-americas",
         badgeClass: "badge-stallion",
@@ -167,7 +167,7 @@ const teamData = {
     },
     jinit: {
         name: "Jinit Shah",
-        position: "Partner",
+        position: "Partner – Project & Business Development",
         company: "Om Consultancy",
         icon: "fas fa-chart-line",
         badgeClass: "badge-om",
@@ -181,7 +181,7 @@ const teamData = {
     },
     kantilal: {
         name: "Kantilal Savsani",
-        position: "Partner",
+        position: "Partner – Cost & Estimation",
         company: "Om Consultancy",
         icon: "fas fa-calculator",
         badgeClass: "badge-om",
